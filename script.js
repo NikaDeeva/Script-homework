@@ -19,9 +19,6 @@ console.log(a);
 const myNull = null;
 console.log(myNull);
 
-const message = prompt("Write your name");
-console.log(message);
-
 const name = prompt(`Введіть своє імʼя`);
 alert(`Привіт ${name}!`);
 
